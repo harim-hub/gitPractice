@@ -17,3 +17,5 @@ git commit -m "add hello.py"
 
 git push origin jennie
 
+--
+git remote rm origin
