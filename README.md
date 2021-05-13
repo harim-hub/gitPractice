@@ -2,8 +2,9 @@
 
 git clone 'repository'
 
-git remove -v
+git remote -v
 
+git init
 git pull
 
 git checkout -b jennie
